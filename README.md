@@ -7,7 +7,7 @@ Proficiency in agile methodologies along with good communication with stakeholde
 
 ## Main Skills
 ### Programming
-PHP, Javascript, VueJs, Laravel, Kotlin Android, Java Android, Angular, C#, HTML, CSS
+PHP, Javascript, VueJs, Laravel, Kotlin Android, Java Android, Angular, HTML, CSS
 
 ### API Integration
 GoogleMaps, Twitter, Cronofy, Stripe, AWS, Google cloud, Twilio
