@@ -5,6 +5,10 @@ I've worked in different system domains like telehealth, payments, and several g
 Experienced with microservices architecture, clean code practices, and SOLID principles.<br />
 Proficiency in agile methodologies along with good communication with stakeholders.<br />
 
+## Education
+ - Bachelor's Degrees in Computer Sciences at [Federal University of Bahia](https://www.ufba.br/)
+ - Post-graduation in Software Engineer at [Wyden UniRuy](https://www.wyden.com.br/unidades/uniruy)
+
 ## Main Skills
 ### Programming
 PHP, Javascript, VueJs, Laravel, Kotlin Android, Java Android, Angular, HTML, CSS
@@ -17,7 +21,7 @@ PostgreSQL, SQL Server, MySQL, Elasticsearch, Realm, GCDB
 
 ### Others
 REST API, Microservices, Hexagonal Architecture, RabbitMQ, Pusher, Docker, Doctrine, Redis,
-SCRUM, CQRS, gRPC, H323, SIP, Asterisk, Logstash, Kibana
+SCRUM, CQRS, gRPC, Logstash, Kibana
 
 ## Article published
 [A Case Study of Team Intention and Behavior in Three Software Companies](https://ieeexplore.ieee.org/document/6681374)
