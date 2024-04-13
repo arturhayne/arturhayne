@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am Software Engineer with 13+ Year's Experience.<br />
-I've worked in different system domains like telehealth, payments, and government projects.<br />
+I've worked in different system domains like telehealth, payments, and several government projects.<br />
 Experienced with microservices architecture, clean code practices, and SOLID principles.<br />
 Proficiency in agile methodologies along with good communication with stakeholders.<br />
 
